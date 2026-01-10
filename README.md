@@ -2,6 +2,8 @@
 
 <p>I’m an aspiring Systems and Cloud Administrator.<p>
 
+<p>My passion lies in helping organizations manage, secure, and optimize their IT infrastructure whether on-premises or in the cloud. I enjoy digging deep into technologies that power modern IT environments while continuously improving my skills.</p>
+
 <h2>👨‍💻 Windows 11 Projects:</h2>
 
  - [Administering Local User Accounts](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
