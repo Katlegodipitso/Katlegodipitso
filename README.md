@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 Windows 11 Projects:</h2>
 
- - [Administering Local User Accounts](https://github.com/katlegodipitso)
- - [Active Directory Home Lab](https://github.com/katlegodipitso)
+ - [Administering Local User Accounts](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
+ - [Active Directory Home Lab](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
 
 <h2>🧑‍🎓 Certifications:</h2>
 
