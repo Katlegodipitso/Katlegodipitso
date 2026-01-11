@@ -1,22 +1,22 @@
-<h1>👋Hi, I'm Katlego!</h1>
+<h1>👋🏾Hi, I'm Katlego!</h1>
 
 <p>I’m an aspiring Systems and Cloud Administrator.<p>
 
 <p>My passion lies in helping organizations manage, secure, and optimize their IT infrastructure whether on-premises or in the cloud. I enjoy digging deep into technologies that power modern IT environments while continuously improving my skills.</p>
 
-<h2>👨‍💻 Windows 11 Projects:</h2>
+<h2>👨🏾‍💻 Windows 11 Projects:</h2>
 
  - [Local User Account Administration Homelab](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
  - [Active Directory Home Lab](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
 
-<h2>🧑‍🎓 Certifications:</h2>
+<h2>🎓 Certifications:</h2>
 
  - [CompTIA A+](https://github.com/katlegodipitso)
  - [Microsoft Certified: Azure Fundamentals (AZ900)](https://github.com/katlegodipitso)
  - [Microsoft Certified: Azure Administrator Associate (AZ104)](https://github.com/katlegodipitso)
  - [Microsoft Certified: Azure Virtual Desktop Specialty (AZ140)](https://github.com/katlegodipitso)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📲 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
