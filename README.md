@@ -4,10 +4,10 @@
 
 <p>My passion lies in helping organizations manage, secure, and optimize their IT infrastructure whether on-premises or in the cloud. I enjoy digging deep into technologies that power modern IT environments while continuously improving my skills.</p>
 
-<h2>👨🏾‍💻 Windows 11 Projects:</h2>
+<h2>👨🏾‍💻Microsoft Windows Projects:</h2>
 
- - [Local User Account Administration Homelab](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
- - [Active Directory Home Lab](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
+ - [Active Directory Domain Services (AD DS)](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
+ - [Microsoft Entra ID (Azure AD](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
 
 <h2>🎓 Certifications:</h2>
 
@@ -18,18 +18,12 @@
 
 <h2> 📲 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Katlego | LinkedIn" width="22px" src="#" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/katlegodipitso
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
