@@ -7,7 +7,7 @@
 <h2>👨🏾‍💻Microsoft Windows Projects:</h2>
 
  - [Active Directory Domain Services (AD DS)](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
- - [Microsoft Entra ID (Azure AD](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
+ - [Microsoft Entra ID (Azure AD)](https://github.com/Katlegodipitso/Administering-Local-Accounts/tree/main)
 
 <h2>🎓 Certifications:</h2>
 
@@ -16,11 +16,6 @@
  - [Microsoft Certified: Azure Administrator Associate (AZ104)](https://github.com/katlegodipitso)
  - [Microsoft Certified: Azure Virtual Desktop Specialty (AZ140)](https://github.com/katlegodipitso)
 
-<h2> 📲 Connect with me:</h2>
-
-[<img align="left" alt="Katlego | LinkedIn" width="22px" src="#" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/katlegodipitso
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
